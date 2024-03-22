@@ -1,0 +1,57 @@
+{
+  "name": "suntiusto",
+  "description": "Material Design for Bootstrap 4",
+  "version": "1.0.0",
+  "keywords": [
+    "facere",
+    "design",
+    "bootstrap",
+    "vero",
+    "vero",
+    "laudantium",
+    "mobile-first",
+    "vel",
+    "quia",
+    "framework",
+    "qui"
+  ],
+  "homepage": "https://github.com/CarsonMayert/suntiusto.git",
+  "author": "AlanisHomenick",
+  "style": "dist/css/bootstrap-material-design.css",
+  "sass": "scss/_core.scss",
+  "main": "dist/js/bootstrap-material-design.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarsonMayert/suntiusto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CarsonMayert/suntiusto.git/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-core": "^6.26.3",
+    "babel-minify": "^0.5.0",
+    "babel-plugin-module-resolver": "3",
+    "babel-plugin-transform-es2015-modules-strip": "^0.1.1",
+    "bootstrap": "^4.3.1",
+    "cssnano-cli": "^1.0.5",
+    "jquery": ">=3.4.0",
+    "node-sass": "^4.12.0",
+    "node-sass-tilde-importer": "^1.0.2",
+    "popper.js": "^1.15.0",
+    "prettier": "^1.17.0",
+    "rollup": "^1.11.2",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-commonjs": "^9.3.4",
+    "rollup-plugin-node-resolve": "^4.2.3"
+  },
+  "files": [
+    "dist",
+    "js/*.js",
+    "scss/**/*.scss",
+    "LICENSE"
+  ]
+}
